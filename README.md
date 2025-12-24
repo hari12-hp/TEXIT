@@ -1,11 +1,20 @@
 # TEXIT
-hey, this is my repo for the describing the app i am working on:
-	1.The theme of app - most of us are not conscious about the usage of our mobile devuces and 
-  	we havent set clear boundaries with our devices
-	2.Need for app-- the current wellness apps like forest ,completely restrict us from using of our devices 
-  which makes them flawed, i personally believe there should be rather a clear boundary and we should be 
-  	consciously binging if we want.
-	3.The working of app- we deployed a small lnguage model in device which will help us to use mobile
-  	consciously
-    
-  
+
+Hey 👋  
+This is my repository describing the app I am currently working on.
+
+##  Theme of the App
+Most of us are not conscious about our mobile device usage, and we haven’t set clear boundaries with our devices.
+
+##  Need for the App
+Current digital wellness apps (like Forest) completely restrict device usage.  
+This makes them flawed.
+
+I personally believe there should be **clear boundaries**, not total restriction — and that we should **consciously binge** if we choose to.
+
+##  How the App Works
+We deploy a **small on-device language model** that helps users make conscious decisions while using their mobile devices.
+## Structure of repo:
+the repo has the pitch we presented to a vc
+## progress
+we have pitched idea to a vc, they wanted more refinement and we do have mvp and working on further iterations to bring the app into production by end of 2026
