@@ -7,4 +7,5 @@ hey, this is my repo for the describing the app i am working on:
   	consciously binging if we want.
 	3.The working of app- we deployed a small lnguage model in device which will help us to use mobile
   	consciously
+    
   
